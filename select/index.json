@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "REDLINE",
+  "base_artist": "James Shimoji",
+  "createdAt": "2026-03-20T03:38:15.826656Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Redline",
+      "artist": "Saxon",
+      "has_synced": false,
+      "path": "select/01_Redline_Saxon.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Redline",
+      "artist": "D.R.I.",
+      "has_synced": false,
+      "path": "select/02_Redline_D.R.I..txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Redline",
+      "artist": "D.R.I.",
+      "has_synced": true,
+      "path": "select/03_Redline_D.R.I..lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Redline - Live at the Ritz",
+      "artist": "D.R.I.",
+      "has_synced": false,
+      "path": "select/04_Redline_-_Live_at_the_Ritz_D.R.I..txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Redline (Live)",
+      "artist": "D.R.I.",
+      "has_synced": false,
+      "path": "select/05_Redline_(Live)_D.R.I..txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Redline - Remastered",
+      "artist": "D.R.I.",
+      "has_synced": true,
+      "path": "select/06_Redline_-_Remastered_D.R.I..lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Redline",
+      "artist": "Glenn Hughes",
+      "has_synced": false,
+      "path": "select/07_Redline_Glenn_Hughes.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Redline",
+      "artist": "Escape the Fate",
+      "has_synced": true,
+      "path": "select/08_Redline_Escape_the_Fate.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Redline",
+      "artist": "Fu Manchu",
+      "has_synced": false,
+      "path": "select/09_Redline_Fu_Manchu.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Jesus Built My Hotrod (Redline, Whiteline Version)",
+      "artist": "Ministry",
+      "has_synced": true,
+      "path": "select/10_Jesus_Built_My_Hotrod_(Redline,_Whiteline_Version)_Ministry.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Jesus Built My Hotrod (Redline/Whiteline Version)",
+      "artist": "Ministry",
+      "has_synced": true,
+      "path": "select/11_Jesus_Built_My_Hotrod_(Redline_Whiteline_Version)_Ministry.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "REDLINE News",
+      "artist": "James Shimoji",
+      "has_synced": false,
+      "path": "select/12_REDLINE_News_James_Shimoji.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "REDLINE DAY",
+      "artist": "James Shimoji",
+      "has_synced": true,
+      "path": "select/13_REDLINE_DAY_James_Shimoji.lrc"
+    }
+  ]
+}
